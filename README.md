@@ -1,1 +1,1 @@
-### YSO Tracking: An SDE Method in Moving UAV videos
+### An SDE Method in Moving UAV videos
